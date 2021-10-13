@@ -1,0 +1,12 @@
+E:\Projects\NsightLive_CRM\TurnKey.Model\bin\Debug\net5.0\TurnKey.Model.deps.json
+E:\Projects\NsightLive_CRM\TurnKey.Model\bin\Debug\net5.0\TurnKey.Model.dll
+E:\Projects\NsightLive_CRM\TurnKey.Model\bin\Debug\net5.0\ref\TurnKey.Model.dll
+E:\Projects\NsightLive_CRM\TurnKey.Model\bin\Debug\net5.0\TurnKey.Model.pdb
+E:\Projects\NsightLive_CRM\TurnKey.Model\obj\Debug\net5.0\TurnKey.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NsightLive_CRM\TurnKey.Model\obj\Debug\net5.0\TurnKey.Model.AssemblyInfoInputs.cache
+E:\Projects\NsightLive_CRM\TurnKey.Model\obj\Debug\net5.0\TurnKey.Model.AssemblyInfo.cs
+E:\Projects\NsightLive_CRM\TurnKey.Model\obj\Debug\net5.0\TurnKey.Model.csproj.CoreCompileInputs.cache
+E:\Projects\NsightLive_CRM\TurnKey.Model\obj\Debug\net5.0\TurnKey.Model.dll
+E:\Projects\NsightLive_CRM\TurnKey.Model\obj\Debug\net5.0\ref\TurnKey.Model.dll
+E:\Projects\NsightLive_CRM\TurnKey.Model\obj\Debug\net5.0\TurnKey.Model.pdb
+E:\Projects\NsightLive_CRM\TurnKey.Model\obj\Debug\net5.0\TurnKey.Model.csproj.AssemblyReference.cache
